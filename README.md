@@ -24,14 +24,23 @@ During this report, reader might find these following terms quite complicated. P
 these definitions for further understanding.
 
 .Administrator: a person who responsible for managing a business or an organization.
+
 .Bureau: an office or department for transacting particular business 
-<TTC>  Page 4  CONFIDENTIAL11/19/2011
+
 .Press: the terms press in the report can be understood as reporter or journali st.
+
 .Trigger: something that start a process.
+
 .Precondition: a condition that must be complete before starting something else.
+
 .Post-Condition: post-condition is a condition based on requirement changes during a process.
+
 .Scenarios: a written out-line, skeleton or back-bone of a process.
+
 .Functional: designed to be practical, useful, having special activities or purpose.
+
 .Non-Functional: the opposite of Functional.
+
 .Constrains: compel or force (someone) to follow a particular course of action.
+
 (Oxford Dictionary)
